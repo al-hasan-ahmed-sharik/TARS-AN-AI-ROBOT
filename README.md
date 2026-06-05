@@ -46,3 +46,8 @@ The OLED works as a visual interface (“robot eye”) and a Li-ion battery powe
 ## Author
 
 Al Hasan Ahmed Sharik
+
+Department of Mechanical Engineering
+
+Ahsanullah University of Science and Technology(AUST)
+
