@@ -1,0 +1,14 @@
+Battery & Charging Module → Main Board (XH-S3E-AI_V1.0)
+● Battery Positive (+) → Charging Module B+
+● Battery Positive (+) → Switch → VIN
+● Battery Negative (-) → Charging Module B-
+● Battery Negative (-) → GND
+
+OLED Display → Main Board
+● GND (Black Wire) → GND
+● VDD (Red Wire) → 3V3
+● SCK (Blue Wire) → IO42/SCL
+● SDA (Green Wire) → IO41/SDA
+
+Speaker → Main Board
+● Speaker Cable (Red & Black Wires) → White Connector Port (Bottom Right)
